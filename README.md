@@ -7,10 +7,10 @@ The objective of this task is to create (SVM) to classify iamges of cats and dog
 
 ## 💡 The benefit of this project:
 
-✅ Practical application on Machine Learning using SVM.
-✅ Learn image processing using OpenCV.
-✅ Learn how to deal with image data and convert it into numerical features.
-✅ Experiment with the SVM algorithm and see how it performs in image classification
+- ✅ Practical application on Machine Learning using SVM.
+- ✅ Learn image processing using OpenCV.
+- ✅ Learn how to deal with image data and convert it into numerical features.
+- ✅ Experiment with the SVM algorithm and see how it performs in image classification
 
 ## Technologies Used
 
